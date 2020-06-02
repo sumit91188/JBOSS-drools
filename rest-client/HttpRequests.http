@@ -1,0 +1,6 @@
+# POST Request To Update Rules
+POST http://localhost:8080/rules/reload
+
+###
+# Get Request To Fetch Rules
+GET http://localhost:8080/rules/gold
